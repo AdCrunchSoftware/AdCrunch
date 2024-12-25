@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Панель управления",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Панель управления",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Настройки",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Обнаруживается uBO Lite",
+    "message": "Обнаруживается AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Неполадки при работе uBO Lite",
+    "message": "Неполадки при работе AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Вы только что установили uBO Lite. Здесь вы можете выбрать стандартный режим фильтрации для всех веб-сайтов.\n\nПо умолчанию выбран режим <em>Базовый</em>, так как он не требует разрешения на чтение и изменение данных. Если вы доверяете uBO Lite, вы можете дать ему широкие права на чтение и изменение данных на всех веб-сайтах, чтобы включить более продвинутые возможности фильтрации для всех веб-сайтов по умолчанию.",
+    "message": "Вы только что установили AdCrunch. Здесь вы можете выбрать стандартный режим фильтрации для всех веб-сайтов.\n\nПо умолчанию выбран режим <em>Базовый</em>, так как он не требует разрешения на чтение и изменение данных. Если вы доверяете AdCrunch, вы можете дать ему широкие права на чтение и изменение данных на всех веб-сайтах, чтобы включить более продвинутые возможности фильтрации для всех веб-сайтов по умолчанию.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite предотвратил загрузку следующей страницы:",
+    "message": "AdCrunch предотвратил загрузку следующей страницы:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

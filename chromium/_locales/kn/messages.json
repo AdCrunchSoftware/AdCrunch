@@ -13,7 +13,7 @@
   },
   "dashboardName": {
     "message": "\nಯುಬಿಒ ಲೈಟ್ - ಡ್ಯಾಶ್‌ಬೋರ್ಡ್\n",
-    "description": "English: uBO Lite — Dashboard"
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "ಸಂಯೋಜನೆಗಳು",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Detects uBO Lite",
+    "message": "Detects AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Malfunctions when uBO Lite is enabled",
+    "message": "Malfunctions when AdCrunch is enabled",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "ನೀವು ಈಗಷ್ಟೇ uBO Lite ಅನ್ನು ಸ್ಥಾಪಿಸಿರುವಿರಿ. ಇಲ್ಲಿ ನೀವು ಎಲ್ಲಾ ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿ ಬಳಸಲು ಡಿಫಾಲ್ಟ್ ಫಿಲ್ಟರಿಂಗ್ ಮೋಡ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು.\n\nಪೂರ್ವನಿಯೋಜಿತವಾಗಿ, <em>ಸಾಮಾನ್ಯ</em> ಮೋಡ್ ಅನ್ನು ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ ಏಕೆಂದರೆ ಇದು ಡೇಟಾವನ್ನು ಓದಲು ಮತ್ತು ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿಯ ಅಗತ್ಯವಿಲ್ಲ. ನೀವು uBO Lite ಅನ್ನು ನಂಬುತ್ತಿದ್ದರೆ, ಡೀಫಾಲ್ಟ್ ಆಗಿ ಎಲ್ಲಾ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ ಹೆಚ್ಚು ಸುಧಾರಿತ ಫಿಲ್ಟರಿಂಗ್ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಎಲ್ಲಾ ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿನ ಡೇಟಾವನ್ನು ಓದಲು ಮತ್ತು ಮಾರ್ಪಡಿಸಲು ನೀವು ವಿಶಾಲವಾದ ಅನುಮತಿಯನ್ನು ನೀಡಬಹುದು.",
+    "message": "ನೀವು ಈಗಷ್ಟೇ AdCrunch ಅನ್ನು ಸ್ಥಾಪಿಸಿರುವಿರಿ. ಇಲ್ಲಿ ನೀವು ಎಲ್ಲಾ ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿ ಬಳಸಲು ಡಿಫಾಲ್ಟ್ ಫಿಲ್ಟರಿಂಗ್ ಮೋಡ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು.\n\nಪೂರ್ವನಿಯೋಜಿತವಾಗಿ, <em>ಸಾಮಾನ್ಯ</em> ಮೋಡ್ ಅನ್ನು ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ ಏಕೆಂದರೆ ಇದು ಡೇಟಾವನ್ನು ಓದಲು ಮತ್ತು ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿಯ ಅಗತ್ಯವಿಲ್ಲ. ನೀವು AdCrunch ಅನ್ನು ನಂಬುತ್ತಿದ್ದರೆ, ಡೀಫಾಲ್ಟ್ ಆಗಿ ಎಲ್ಲಾ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ ಹೆಚ್ಚು ಸುಧಾರಿತ ಫಿಲ್ಟರಿಂಗ್ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಎಲ್ಲಾ ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿನ ಡೇಟಾವನ್ನು ಓದಲು ಮತ್ತು ಮಾರ್ಪಡಿಸಲು ನೀವು ವಿಶಾಲವಾದ ಅನುಮತಿಯನ್ನು ನೀಡಬಹುದು.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite has prevented the following page from loading:",
+    "message": "AdCrunch has prevented the following page from loading:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

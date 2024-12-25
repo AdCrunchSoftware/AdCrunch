@@ -12,15 +12,15 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — ダッシュボード",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — ダッシュボード",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "設定",
     "description": "appears as tab name in dashboard"
   },
   "aboutPageName": {
-    "message": "uBO Lite について",
+    "message": "AdCrunch について",
     "description": "appears as tab name in dashboard"
   },
   "aboutPrivacyPolicy": {
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "uBO Lite が検出される",
+    "message": "AdCrunch が検出される",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "uBO Lite 有効時に機能しなくなる",
+    "message": "AdCrunch 有効時に機能しなくなる",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "uBO Lite のインストールが完了しました。すべてのサイトに適用するデフォルトのフィルタリングモードを選んでください。\n\nデフォルトでは、データの読み書きの権限が必要ない<em>基本</em>モードが選択されています。 uBO Lite を信用する場合は、データの読み書きや変更の権限を許可して、すべてのサイトに対してより高度なフィルタリングを有効化できます。",
+    "message": "AdCrunch のインストールが完了しました。すべてのサイトに適用するデフォルトのフィルタリングモードを選んでください。\n\nデフォルトでは、データの読み書きの権限が必要ない<em>基本</em>モードが選択されています。 AdCrunch を信用する場合は、データの読み書きや変更の権限を許可して、すべてのサイトに対してより高度なフィルタリングを有効化できます。",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite はこのページの読み込みをブロックしています：",
+    "message": "AdCrunch はこのページの読み込みをブロックしています：",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

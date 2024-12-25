@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — nadzorna ploča",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — nadzorna ploča",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Postavke",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Otkriva uBO Lite",
+    "message": "Otkriva AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Neispravno kada je uBO Lite omogućen",
+    "message": "Neispravno kada je AdCrunch omogućen",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Upravo ste instalirali uBO Lite. Ovdje možete odabrati zadani način filtriranja za korištenje na svim web stranicama.\n\nPrema zadanim postavkama odabran je način rada <em>Osnovni</em> jer ne zahtijeva dopuštenje za čitanje i promjenu podataka. Ako vjerujete uBO Liteu, možete mu dati široko dopuštenje za čitanje i promjenu podataka na svim web stranicama kako biste prema zadanim postavkama omogućili naprednije mogućnosti filtriranja za sva web mjesta.",
+    "message": "Upravo ste instalirali AdCrunch. Ovdje možete odabrati zadani način filtriranja za korištenje na svim web stranicama.\n\nPrema zadanim postavkama odabran je način rada <em>Osnovni</em> jer ne zahtijeva dopuštenje za čitanje i promjenu podataka. Ako vjerujete AdCrunchu, možete mu dati široko dopuštenje za čitanje i promjenu podataka na svim web stranicama kako biste prema zadanim postavkama omogućili naprednije mogućnosti filtriranja za sva web mjesta.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite je spriječio učitavanje sljedeće stranice:",
+    "message": "AdCrunch je spriječio učitavanje sljedeće stranice:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

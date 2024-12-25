@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Dashboard",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Dashboard",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "การตั้งค่า",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Detects uBO Lite",
+    "message": "Detects AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Malfunctions when uBO Lite is enabled",
+    "message": "Malfunctions when AdCrunch is enabled",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "คุณเพิ่งติดตั้ง uBO Lite คุณสามารถเลือกโหมดการกรอง (ค่าเริ่มต้น) ที่จะใช้กับเว็บไซต์ทั้งหมดได้ที่นี่\n\nตามค่าเริ่มต้น โหมด <em>พื้นฐาน</em> จะถูกเลือกเนื่องจากไม่จำเป็นต้องมีสิทธิ์ในการอ่านและแก้ไขข้อมูล หากคุณไว้วางใจ uBO Lite คุณสามารถให้สิทธิ์ในการอ่านและแก้ไขข้อมูลบนเว็บไซต์ทั้งหมดได้ เพื่อเปิดใช้งานคุณสมบัติการกรองข้อมูลขั้นสูงสำหรับเว็บไซต์ทั้งหมดตามค่าเริ่มต้น",
+    "message": "คุณเพิ่งติดตั้ง AdCrunch คุณสามารถเลือกโหมดการกรอง (ค่าเริ่มต้น) ที่จะใช้กับเว็บไซต์ทั้งหมดได้ที่นี่\n\nตามค่าเริ่มต้น โหมด <em>พื้นฐาน</em> จะถูกเลือกเนื่องจากไม่จำเป็นต้องมีสิทธิ์ในการอ่านและแก้ไขข้อมูล หากคุณไว้วางใจ AdCrunch คุณสามารถให้สิทธิ์ในการอ่านและแก้ไขข้อมูลบนเว็บไซต์ทั้งหมดได้ เพื่อเปิดใช้งานคุณสมบัติการกรองข้อมูลขั้นสูงสำหรับเว็บไซต์ทั้งหมดตามค่าเริ่มต้น",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite has prevented the following page from loading:",
+    "message": "AdCrunch has prevented the following page from loading:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

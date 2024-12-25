@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Papan pemuka",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Papan pemuka",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Tetapan",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Detects uBO Lite",
+    "message": "Detects AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Malfunctions when uBO Lite is enabled",
+    "message": "Malfunctions when AdCrunch is enabled",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Anda baru sahaja memasang uBO Lite. Di sini anda boleh memilih mod penapisan lalai untuk digunakan pada semua tapak web.\n\nSecara lalai, mod <em>Asas</em> dipilih kerana ia tidak memerlukan kebenaran untuk membaca dan mengubah suai data. Jika anda mempercayai uBO Lite, anda boleh memberikannya kebenaran untuk membaca dan mengubah suai data pada semua tapak web untuk mendayakan keupayaan penapisan yang lebih maju untuk semua tapak web secara lalai.",
+    "message": "Anda baru sahaja memasang AdCrunch. Di sini anda boleh memilih mod penapisan lalai untuk digunakan pada semua tapak web.\n\nSecara lalai, mod <em>Asas</em> dipilih kerana ia tidak memerlukan kebenaran untuk membaca dan mengubah suai data. Jika anda mempercayai AdCrunch, anda boleh memberikannya kebenaran untuk membaca dan mengubah suai data pada semua tapak web untuk mendayakan keupayaan penapisan yang lebih maju untuk semua tapak web secara lalai.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite has prevented the following page from loading:",
+    "message": "AdCrunch has prevented the following page from loading:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

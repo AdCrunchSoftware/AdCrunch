@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Կառավահան",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Կառավահան",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Կարգավորումներ",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Detects uBO Lite",
+    "message": "Detects AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Malfunctions when uBO Lite is enabled",
+    "message": "Malfunctions when AdCrunch is enabled",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Դուք հենց նոր տեղադրեցիք uBO Lite-ը։ Այստեղ Դուք կարող եք զտման ստանդարտ ռեժիմ ընտրել բոլոր կայքերի համար։\n\nԼռելյայն կերպով ընտրված է <em>հիմնական</em> ռեժիմը, քանի որ այն չի պահանջում տվյալների ընթերցման և փոփոխման թույլտվություն։ Եթե վստահում եք uBO Lite-ին, կարող եք տալ դրան բոլոր կայքերում տվյալների ընթերցման և փոփոխման լայն իրավունքներ՝ բոլոր կայքերի համար զտման ավելի առաջադեմ հնարավորությունները լռելյայն կերպով միացնելու համար։",
+    "message": "Դուք հենց նոր տեղադրեցիք AdCrunch-ը։ Այստեղ Դուք կարող եք զտման ստանդարտ ռեժիմ ընտրել բոլոր կայքերի համար։\n\nԼռելյայն կերպով ընտրված է <em>հիմնական</em> ռեժիմը, քանի որ այն չի պահանջում տվյալների ընթերցման և փոփոխման թույլտվություն։ Եթե վստահում եք AdCrunch-ին, կարող եք տալ դրան բոլոր կայքերում տվյալների ընթերցման և փոփոխման լայն իրավունքներ՝ բոլոր կայքերի համար զտման ավելի առաջադեմ հնարավորությունները լռելյայն կերպով միացնելու համար։",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite has prevented the following page from loading:",
+    "message": "AdCrunch has prevented the following page from loading:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Kontrol Paneli",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Kontrol Paneli",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Ayarlar",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "uBO Lite tespit ediliyor",
+    "message": "AdCrunch tespit ediliyor",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "uBO Lite kullanımdayken sayfa bozuluyor ",
+    "message": "AdCrunch kullanımdayken sayfa bozuluyor ",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Az önce uBO Lite'ı indirdiniz. Buradan tüm siteler için varsayılan filtreleme modlarını seçebilirsiniz.\n\nVarsayılan olarak, <em>Basit</em> mod seçilidir çünkü verileri okuma ve yazma izni gerektirmez. uBO Lite'a güveniyorsanız, tüm sitelerde verileri okuma ve yazma izni verebilirsiniz ve daha gelişmiş filtreleme yeteneklerine tüm sitelerde sahip olabilirsiniz.",
+    "message": "Az önce AdCrunch'ı indirdiniz. Buradan tüm siteler için varsayılan filtreleme modlarını seçebilirsiniz.\n\nVarsayılan olarak, <em>Basit</em> mod seçilidir çünkü verileri okuma ve yazma izni gerektirmez. AdCrunch'a güveniyorsanız, tüm sitelerde verileri okuma ve yazma izni verebilirsiniz ve daha gelişmiş filtreleme yeteneklerine tüm sitelerde sahip olabilirsiniz.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {

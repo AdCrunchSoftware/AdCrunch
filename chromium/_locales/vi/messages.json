@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Bảng điều khiển",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Bảng điều khiển",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Cài đặt",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Phát hiện uBO Lite",
+    "message": "Phát hiện AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Trục trặc khi bật uBO Lite",
+    "message": "Trục trặc khi bật AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Bạn vừa cài đặt uBO Lite. Bạn có thể chọn chế độ của bộ lọc mặc định để sử dụng trên tất cả các trang web. Theo mặc định, chế độ <em>Cơ bản</em> được chọn vì chế độ này không yêu cầu quyền đọc và thay đổi dữ liệu. Nếu bạn tin tưởng uBO Lite, bạn có thể cấp cho bộ lọc với quyền rộng rãi để đọc và thay đổi dữ liệu trên tất cả các trang web để kích hoạt khả năng lọc nâng cao hơn cho tất cả các trang web theo mặc định.",
+    "message": "Bạn vừa cài đặt AdCrunch. Bạn có thể chọn chế độ của bộ lọc mặc định để sử dụng trên tất cả các trang web. Theo mặc định, chế độ <em>Cơ bản</em> được chọn vì chế độ này không yêu cầu quyền đọc và thay đổi dữ liệu. Nếu bạn tin tưởng AdCrunch, bạn có thể cấp cho bộ lọc với quyền rộng rãi để đọc và thay đổi dữ liệu trên tất cả các trang web để kích hoạt khả năng lọc nâng cao hơn cho tất cả các trang web theo mặc định.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite đã ngăn tải trang sau:",
+    "message": "AdCrunch đã ngăn tải trang sau:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

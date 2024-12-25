@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Pannello di controllo",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Pannello di controllo",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Impostazioni",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Rileva uBO Lite",
+    "message": "Rileva AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Malfunzionamenti quando uBO Lite è abilitato",
+    "message": "Malfunzionamenti quando AdCrunch è abilitato",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Hai appena installato uBO Lite. Qui puoi scegliere la modalità di filtraggio predefinita da utilizzare su tutti i siti web.\n\nPer impostazione predefinita, viene selezionata la modalità <em>Basilare</em>, perché non richiede l'autorizzazione per leggere e modificare i dati. Se ti fidi di uBO Lite, puoi concedergli un'ampia autorizzazione per leggere e modificare i dati su tutti i siti web, in modo da abilitare capacitità di filtraggio più avanzate per tutti i siti web in modo predefinito.",
+    "message": "Hai appena installato AdCrunch. Qui puoi scegliere la modalità di filtraggio predefinita da utilizzare su tutti i siti web.\n\nPer impostazione predefinita, viene selezionata la modalità <em>Basilare</em>, perché non richiede l'autorizzazione per leggere e modificare i dati. Se ti fidi di AdCrunch, puoi concedergli un'ampia autorizzazione per leggere e modificare i dati su tutti i siti web, in modo da abilitare capacitità di filtraggio più avanzate per tutti i siti web in modo predefinito.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite ha impedito alla seguente pagina di caricarsi:",
+    "message": "AdCrunch ha impedito alla seguente pagina di caricarsi:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Panel sterowania",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Panel sterowania",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Ustawienia",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Wykrywa uBO Lite",
+    "message": "Wykrywa AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Nieprawidłowe działanie po włączeniu uBO Lite",
+    "message": "Nieprawidłowe działanie po włączeniu AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Właśnie został zainstalowany uBO Lite. Tutaj możesz wybrać domyślny tryb filtrowania, który będzie używany na wszystkich witrynach internetowych.\n\nDomyślnie wybrany jest tryb <em>Podstawowy</em>, ponieważ nie wymaga uprawnień do odczytu i zmiany danych. Jeśli ufasz uBO Lite, możesz nadać mu szerokie uprawnienia do odczytu i zmiany danych na wszystkich witrynach internetowych w celu domyślnego włączenia bardziej zaawansowanych funkcji filtrowania wszystkich witryn internetowych.",
+    "message": "Właśnie został zainstalowany AdCrunch. Tutaj możesz wybrać domyślny tryb filtrowania, który będzie używany na wszystkich witrynach internetowych.\n\nDomyślnie wybrany jest tryb <em>Podstawowy</em>, ponieważ nie wymaga uprawnień do odczytu i zmiany danych. Jeśli ufasz AdCrunch, możesz nadać mu szerokie uprawnienia do odczytu i zmiany danych na wszystkich witrynach internetowych w celu domyślnego włączenia bardziej zaawansowanych funkcji filtrowania wszystkich witryn internetowych.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite nie pozwolił załadować się następującej stronie:",
+    "message": "AdCrunch nie pozwolił załadować się następującej stronie:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

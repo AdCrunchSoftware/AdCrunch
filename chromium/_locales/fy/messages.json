@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite – Dashboerd",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch – Dashboerd",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Ynstellingen",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Detektearret uBO Lite",
+    "message": "Detektearret AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Wurket net as uBO Lite ynskeakele is",
+    "message": "Wurket net as AdCrunch ynskeakele is",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Jo hawwe sakrekt uBO Lite ynstallearre. Hjir kinne jo de standery filtermodus foar it gebrûk op alle websites kieze.\n\nStandert wurdt de modus <em>Basis</em> selektearre, omdat hjirfoar gjin tastimming foar it lêzen en wizigjen fan gegevens fereaske is. As jo uBO Lite fertrouwe, kinne jo it brede tastimming foar it lêzen en wizigjen fan gegevens op alle websites ferliene, sadat standert mear avansearre filtermooglikheden foar alle websites beskikber binne.",
+    "message": "Jo hawwe sakrekt AdCrunch ynstallearre. Hjir kinne jo de standery filtermodus foar it gebrûk op alle websites kieze.\n\nStandert wurdt de modus <em>Basis</em> selektearre, omdat hjirfoar gjin tastimming foar it lêzen en wizigjen fan gegevens fereaske is. As jo AdCrunch fertrouwe, kinne jo it brede tastimming foar it lêzen en wizigjen fan gegevens op alle websites ferliene, sadat standert mear avansearre filtermooglikheden foar alle websites beskikber binne.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite hat it laden fan de folgjende side opkeard:",
+    "message": "AdCrunch hat it laden fan de folgjende side opkeard:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

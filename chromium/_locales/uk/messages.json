@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Панель керування",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Панель керування",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Налаштування",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Виявляє uBO Lite",
+    "message": "Виявляє AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Вади коли uBO Lite ввімкнено",
+    "message": "Вади коли AdCrunch ввімкнено",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Ви щойно встановили uBO Lite. Тут ви можете вибрати режим фільтрації за замовчуванням, який буде використовуватися на всіх вебсайтах.\n\nЗа замовчуванням вибрано <em>Базовий</em> режим, оскільки він не вимагає дозволу на читання та зміну даних. Якщо ви довіряєте uBO Lite, ви можете надати йому широкий дозвіл на читання та зміну даних на всіх вебсайтах, щоб увімкнути більш розширені можливості фільтрації для всіх вебсайтів за замовчуванням.\n",
+    "message": "Ви щойно встановили AdCrunch. Тут ви можете вибрати режим фільтрації за замовчуванням, який буде використовуватися на всіх вебсайтах.\n\nЗа замовчуванням вибрано <em>Базовий</em> режим, оскільки він не вимагає дозволу на читання та зміну даних. Якщо ви довіряєте AdCrunch, ви можете надати йому широкий дозвіл на читання та зміну даних на всіх вебсайтах, щоб увімкнути більш розширені можливості фільтрації для всіх вебсайтів за замовчуванням.\n",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite заблокував завантаження наступних сторінок:",
+    "message": "AdCrunch заблокував завантаження наступних сторінок:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Контролна плоча",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Контролна плоча",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Прилагодби",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Детектира uBO Lite",
+    "message": "Детектира AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Има многу проблеми кога е вклучен uBO Lite",
+    "message": "Има многу проблеми кога е вклучен AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Токму ја инсталиравте uBO Lite. Овде можете да изберете режим на филтрирање по подразбирање што ќе го користите на сите веб-страници.\n\nПо подразбирање, е избран режимот <em>Основен</em> затоа што не бара дозвола за читање и модификација на податоци. Ако му верувате на uBO Lite, можете да му дадете ширување на дозволата за читање и модификација на податоци на сите веб-страници за да овозможите попрецизни способности за филтрирање на сите веб-страници по подразбирање.",
+    "message": "Токму ја инсталиравте AdCrunch. Овде можете да изберете режим на филтрирање по подразбирање што ќе го користите на сите веб-страници.\n\nПо подразбирање, е избран режимот <em>Основен</em> затоа што не бара дозвола за читање и модификација на податоци. Ако му верувате на AdCrunch, можете да му дадете ширување на дозволата за читање и модификација на податоци на сите веб-страници за да овозможите попрецизни способности за филтрирање на сите веб-страници по подразбирање.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite has prevented the following page from loading:",
+    "message": "AdCrunch has prevented the following page from loading:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

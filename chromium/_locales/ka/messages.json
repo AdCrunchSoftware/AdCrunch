@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — მაჩვენებლები",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — მაჩვენებლები",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "პარამეტრები",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "ამჩნევს, რომ uBO Lite ჩართულია",
+    "message": "ამჩნევს, რომ AdCrunch ჩართულია",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "შეფერხებით მუშაობს, როცა uBO Lite ჩართულია",
+    "message": "შეფერხებით მუშაობს, როცა AdCrunch ჩართულია",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "თქვენ ახლახან დააყენეთ uBO Lite. აქვე შეგიძლიათ აირჩიოთ ფილტრაციის ნაგულისხმევი რეჟიმი ყველა საიტზე გამოსაყენებლად.\n\nნაგულისხმევად <em>ძირითადი</em> რეჟიმია შერჩეული, ვინაიდან არ საჭიროებს მონაცემთა წაკითხვისა და ცვლილების ნებართვებს. თუ თქვენთვის სანდოა uBO Lite, შეგიძლიათ დართოთ მონაცემთა წაკითხვისა და შეცვლის ნება ყველა საიტზე გაუმჯობესებული ფილტრაციის ნაგულისხმევად გამოყენებისთვის.",
+    "message": "თქვენ ახლახან დააყენეთ AdCrunch. აქვე შეგიძლიათ აირჩიოთ ფილტრაციის ნაგულისხმევი რეჟიმი ყველა საიტზე გამოსაყენებლად.\n\nნაგულისხმევად <em>ძირითადი</em> რეჟიმია შერჩეული, ვინაიდან არ საჭიროებს მონაცემთა წაკითხვისა და ცვლილების ნებართვებს. თუ თქვენთვის სანდოა AdCrunch, შეგიძლიათ დართოთ მონაცემთა წაკითხვისა და შეცვლის ნება ყველა საიტზე გაუმჯობესებული ფილტრაციის ნაგულისხმევად გამოყენებისთვის.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite ზღუდავს მოცემული გვერდის ჩატვირთვას:",
+    "message": "AdCrunch ზღუდავს მოცემული გვერდის ჩატვირთვას:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

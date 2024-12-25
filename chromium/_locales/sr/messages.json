@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Контролна табла",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Контролна табла",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Подешавања",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Детектује uBO Lite",
+    "message": "Детектује AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Кварови када је uBO Lite омогућен",
+    "message": "Кварови када је AdCrunch омогућен",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Управо сте инсталирали uBO Lite. Овде можете изабрати подразумевани режим филтрирања који ће се користити на свим сајтовима.\n\nПодразумевано је изабран <em>основни</em> режим јер он не захтева дозволу за читање и мењање података. Ако верујете uBO Lite-у, можете му дати широку дозволу за читање и мењање података како би се подразумевано омогућиле напредније могућности филтрирања за све сајтове.",
+    "message": "Управо сте инсталирали AdCrunch. Овде можете изабрати подразумевани режим филтрирања који ће се користити на свим сајтовима.\n\nПодразумевано је изабран <em>основни</em> режим јер он не захтева дозволу за читање и мењање података. Ако верујете AdCrunch-у, можете му дати широку дозволу за читање и мењање података како би се подразумевано омогућиле напредније могућности филтрирања за све сајтове.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite је спречио учитавање следеће странице:",
+    "message": "AdCrunch је спречио учитавање следеће странице:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

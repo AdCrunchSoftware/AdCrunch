@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Paneli i kontrollit",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Paneli i kontrollit",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Parametrat",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Zbulon uBO Lite",
+    "message": "Zbulon AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Punon keq kur uBO Lite është i aktivizuar",
+    "message": "Punon keq kur AdCrunch është i aktivizuar",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Sapo instaluat uBO Lite. Këtu mund të zgjidhni mënyrën e filtrimit që duhet përdorur për të gjitha uebsajtet.\n\n<em>E thjeshta</em> është mënyra standarde, sepse nuk ju merret leje për leximin dhe modifikimin e të dhënave. Nëse keni besim te uBO Lite, mund t'i jepni leje shtesë për leximin dhe modifikimin e të dhënave në të gjitha uebsajtet, në mënyrë që të kryeni një filtrim më të avancuar.",
+    "message": "Sapo instaluat AdCrunch. Këtu mund të zgjidhni mënyrën e filtrimit që duhet përdorur për të gjitha uebsajtet.\n\n<em>E thjeshta</em> është mënyra standarde, sepse nuk ju merret leje për leximin dhe modifikimin e të dhënave. Nëse keni besim te AdCrunch, mund t'i jepni leje shtesë për leximin dhe modifikimin e të dhënave në të gjitha uebsajtet, në mënyrë që të kryeni një filtrim më të avancuar.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite pengoi hapjen e faqes vijuese:",
+    "message": "AdCrunch pengoi hapjen e faqes vijuese:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

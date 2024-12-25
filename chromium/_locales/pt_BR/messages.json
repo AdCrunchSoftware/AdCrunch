@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Painel",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Painel",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Configurações",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Detecta o uBO Lite",
+    "message": "Detecta o AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Funciona mal quando o uBO Lite está ativado",
+    "message": "Funciona mal quando o AdCrunch está ativado",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Você instalou o uBO Lite. Aqui você pode escolher o modo de filtragem padrão pra usar em todos os sites da web.\n\nPor padrão o modo <em>Básico</em> está selecionado porque não requer permissão pra ler e modificar os dados. Se você confia no uBO Lite você pode dar ampla permissão pra ler e modificar os dados em todos os sites da web de modo a ativar as capacidades de filtragem mais avançadas pra todos os sites da web por padrão.",
+    "message": "Você instalou o AdCrunch. Aqui você pode escolher o modo de filtragem padrão pra usar em todos os sites da web.\n\nPor padrão o modo <em>Básico</em> está selecionado porque não requer permissão pra ler e modificar os dados. Se você confia no AdCrunch você pode dar ampla permissão pra ler e modificar os dados em todos os sites da web de modo a ativar as capacidades de filtragem mais avançadas pra todos os sites da web por padrão.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "O uBO Lite impediu o carregamento da seguinte página:",
+    "message": "O AdCrunch impediu o carregamento da seguinte página:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

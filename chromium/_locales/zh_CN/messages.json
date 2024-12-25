@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — 控制面板",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — 控制面板",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "设置",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "检测到 uBO Lite",
+    "message": "检测到 AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "启用 uBO Lite 时发生故障",
+    "message": "启用 AdCrunch 时发生故障",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "uBO Lite 现已安装完毕。接下来您可以为网页内容选择默认过滤模式。\n\n预设过滤模式为“基础”，该模式不需要读取或修改网页内容的权限。如果您信任 uBO Lite，您可以授予其用以读取或修改所有网页数据的额外权限，进而默认为所有网站开启高级过滤模式。",
+    "message": "AdCrunch 现已安装完毕。接下来您可以为网页内容选择默认过滤模式。\n\n预设过滤模式为“基础”，该模式不需要读取或修改网页内容的权限。如果您信任 AdCrunch，您可以授予其用以读取或修改所有网页数据的额外权限，进而默认为所有网站开启高级过滤模式。",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite 已阻止了以下页面的加载：",
+    "message": "AdCrunch 已阻止了以下页面的加载：",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

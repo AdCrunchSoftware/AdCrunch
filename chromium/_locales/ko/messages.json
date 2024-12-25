@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — 대시보드",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — 대시보드",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "설정",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "uBO Lite 사용을 감지합니다",
+    "message": "AdCrunch 사용을 감지합니다",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "uBO Lite를 켜면 깨집니다",
+    "message": "AdCrunch를 켜면 깨집니다",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "uBO Lite를 설치하셨습니다. 모든 웹사이트에 적용할 기본 필터링 모드를 선택해주세요.\n\n데이터를 읽고 변경하는 권한이 필요 없는 <em>기본</em> 모드가 기본 설정입니다. uBO Lite를 신뢰하신다면, 모든 웹사이트에서 데이터를 읽고 변경하는 권한을 부여해서 모든 웹사이트에 대해 고급 필터링 기능을 기본적으로 켤 수 있습니다.",
+    "message": "AdCrunch를 설치하셨습니다. 모든 웹사이트에 적용할 기본 필터링 모드를 선택해주세요.\n\n데이터를 읽고 변경하는 권한이 필요 없는 <em>기본</em> 모드가 기본 설정입니다. AdCrunch를 신뢰하신다면, 모든 웹사이트에서 데이터를 읽고 변경하는 권한을 부여해서 모든 웹사이트에 대해 고급 필터링 기능을 기본적으로 켤 수 있습니다.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite가 다음 페이지를 불러오지 못하게 했습니다.",
+    "message": "AdCrunch가 다음 페이지를 불러오지 못하게 했습니다.",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

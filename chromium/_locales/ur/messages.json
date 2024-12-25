@@ -13,7 +13,7 @@
   },
   "dashboardName": {
     "message": "یو بلاکر لائٹ-ڈیش بورڈ",
-    "description": "English: uBO Lite — Dashboard"
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "ترتیبات",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Detects uBO Lite",
+    "message": "Detects AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Malfunctions when uBO Lite is enabled",
+    "message": "Malfunctions when AdCrunch is enabled",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "آپ نے ابھی یو بی او لائٹ انسٹال کیا ہے۔ یہاں آپ تمام ویب سائٹس پر استعمال کرنے کے لیے ڈیفالٹ فلٹرنگ موڈ کا انتخاب کر سکتے ہیں۔\n\nپہلے سے طے شدہ طور پر، <em>بنیادی</em> موڈ کو منتخب کیا جاتا ہے کیونکہ اسے ڈیٹا کو پڑھنے اور اس میں ترمیم کرنے کی اجازت کی ضرورت نہیں ہوتی ہے۔ اگر آپ کو uBO Lite پر بھروسہ ہے، تو آپ اسے تمام ویب سائٹس پر ڈیٹا کو پڑھنے اور اس میں ترمیم کرنے کی وسیع اجازت دے سکتے ہیں تاکہ تمام ویب سائٹس کے لیے پہلے سے طے شدہ فلٹرنگ کی مزید جدید صلاحیتوں کو فعال کیا جا سکے۔",
+    "message": "آپ نے ابھی یو بی او لائٹ انسٹال کیا ہے۔ یہاں آپ تمام ویب سائٹس پر استعمال کرنے کے لیے ڈیفالٹ فلٹرنگ موڈ کا انتخاب کر سکتے ہیں۔\n\nپہلے سے طے شدہ طور پر، <em>بنیادی</em> موڈ کو منتخب کیا جاتا ہے کیونکہ اسے ڈیٹا کو پڑھنے اور اس میں ترمیم کرنے کی اجازت کی ضرورت نہیں ہوتی ہے۔ اگر آپ کو AdCrunch پر بھروسہ ہے، تو آپ اسے تمام ویب سائٹس پر ڈیٹا کو پڑھنے اور اس میں ترمیم کرنے کی وسیع اجازت دے سکتے ہیں تاکہ تمام ویب سائٹس کے لیے پہلے سے طے شدہ فلٹرنگ کی مزید جدید صلاحیتوں کو فعال کیا جا سکے۔",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite has prevented the following page from loading:",
+    "message": "AdCrunch has prevented the following page from loading:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {
