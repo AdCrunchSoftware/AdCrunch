@@ -277,7 +277,7 @@
     "scripting",
     "storage"
   ],
-  "short_name": "AdCrunch",
+  "short_name": "AdCrunch - anti detection Adblocker",
   "storage": {
     "managed_schema": "managed_storage.json"
   },
