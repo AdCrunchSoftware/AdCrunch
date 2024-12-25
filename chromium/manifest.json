@@ -277,7 +277,7 @@
     "scripting",
     "storage"
   ],
-  "short_name": "uBO Lite",
+  "short_name": "AdCrunch",
   "storage": {
     "managed_schema": "managed_storage.json"
   },
