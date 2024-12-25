@@ -4,7 +4,7 @@
     "description": "extension name."
   },
   "extShortDesc": {
-    "message": "The best Adblocker. Blocks adblock detectors, malware, trackers on top of blocking ads on YouTube, Twitch, Facebook, and way more!",
+    "message": "Cel mai bun adblock care combate detectia si blocheaza reclamele de pe YouTube, Facebook, Twitch etc.",
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "perRulesetStats": {
@@ -280,5 +280,3 @@
     "description": "A button to navigate to the blocked page"
   }
 }
-
-
