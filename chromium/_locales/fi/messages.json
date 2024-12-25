@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Hallintapaneeli",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Hallintapaneeli",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Asetukset",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Tunnistaa uBO Liten",
+    "message": "Tunnistaa AdCrunchn",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Ei toimi oikein uBO Liten ollessa käytössä",
+    "message": "Ei toimi oikein AdCrunchn ollessa käytössä",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Olet juuri asentanut uBO Liten. Tästä voit valita kaikilla sivustoilla oletusarvoisesti käytettävän suodatustilan.\n\nOletusarvoinen valinta on <em>Perus</em>-tila, koska se ei vaadi tietojen luku- ja muokkausoikeutta. Jos luotat uBO Liteen, voit myöntää sille kaikki sivustot kattavan laajan tietojen luku- ja muokkausoikeuden, jolloin edistyneemmät suodatusominaisuudet ovat oletusarvoisesti käytössä kaikilla sivustoilla.",
+    "message": "Olet juuri asentanut AdCrunchn. Tästä voit valita kaikilla sivustoilla oletusarvoisesti käytettävän suodatustilan.\n\nOletusarvoinen valinta on <em>Perus</em>-tila, koska se ei vaadi tietojen luku- ja muokkausoikeutta. Jos luotat AdCrunchen, voit myöntää sille kaikki sivustot kattavan laajan tietojen luku- ja muokkausoikeuden, jolloin edistyneemmät suodatusominaisuudet ovat oletusarvoisesti käytössä kaikilla sivustoilla.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite on estänyt seuraavan sivun latauksen:",
+    "message": "AdCrunch on estänyt seuraavan sivun latauksen:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {
