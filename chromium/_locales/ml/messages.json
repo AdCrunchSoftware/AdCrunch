@@ -6,7 +6,7 @@
   "extShortDesc": {
     "message": "The best Adblocker. Blocks adblock detectors, malware, trackers on top of blocking ads on YouTube, Twitch, Facebook, and way more!",
     "description": "this will be in the Chrome web store: must be 132 characters or less"
-  },,
+  },
   "perRulesetStats": {
     "message": "{{ruleCount}} നിയമങ്ങൾ, {{filterCount}} നെറ്റ്‌വർക്ക് ഫിൽട്ടറുകളിൽ നിന്ന് പരിവർത്തനം ചെയ്‌തു",
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
@@ -280,4 +280,5 @@
     "description": "A button to navigate to the blocked page"
   }
 }
+
 
