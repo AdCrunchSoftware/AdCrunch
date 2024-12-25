@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Панэль кіравання",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Панэль кіравання",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Налады",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Выяўляе uBO Lite",
+    "message": "Выяўляе AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Няспраўнасці пры ўключаным uBO Lite",
+    "message": "Няспраўнасці пры ўключаным AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Вы толькі што ўсталявалі uBO Lite. Тут вы можаце выбраць прадвызначаны рэжым фільтравання для ўсіх вэб-сайтаў.\n\nКалі не ўказана іншае, выбраны <em>базавы</em> рэжым, бо ён не патрабуе дазволаў на чытанне і змяненне звестак. Калі вы давяраеце uBO Lite, можаце даць яму шырэйшыя дазволы на чытанне і змяненне звестак на ўсіх вэб-сайтах, каб зрабіць магчымымі больш прасунутыя функцыі фільтравання прадвызначана на ўсіх вэб-сайтах.",
+    "message": "Вы толькі што ўсталявалі AdCrunch. Тут вы можаце выбраць прадвызначаны рэжым фільтравання для ўсіх вэб-сайтаў.\n\nКалі не ўказана іншае, выбраны <em>базавы</em> рэжым, бо ён не патрабуе дазволаў на чытанне і змяненне звестак. Калі вы давяраеце AdCrunch, можаце даць яму шырэйшыя дазволы на чытанне і змяненне звестак на ўсіх вэб-сайтах, каб зрабіць магчымымі больш прасунутыя функцыі фільтравання прадвызначана на ўсіх вэб-сайтах.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite  папярэдзіў чытанне наступнай старонкі:",
+    "message": "AdCrunch  папярэдзіў чытанне наступнай старонкі:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {
