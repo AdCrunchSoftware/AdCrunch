@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Töölaud",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Töölaud",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Sätted",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Tuvastab uBO Lite'i",
+    "message": "Tuvastab AdCrunch'i",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Streigib, kui uBO Lite on kasutusel",
+    "message": "Streigib, kui AdCrunch on kasutusel",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Olete paigaldanud uBO Lite'i. Nüüd valige kõigil veebilehtedel kasutatav üldine filtreerimisrežiim.\n\nTavaliselt kehtib <em>Põhiline</em> režiim, kuna see ei vaja andmete lugemise ja muutmise luba. uBO Lite'i usaldamisel saate sel lubada andmeid lugeda ja muuta kõigil veebilehtedel, et neid saaks vaikimisi filtreerida põhjalikumalt.",
+    "message": "Olete paigaldanud AdCrunch'i. Nüüd valige kõigil veebilehtedel kasutatav üldine filtreerimisrežiim.\n\nTavaliselt kehtib <em>Põhiline</em> režiim, kuna see ei vaja andmete lugemise ja muutmise luba. AdCrunch'i usaldamisel saate sel lubada andmeid lugeda ja muuta kõigil veebilehtedel, et neid saaks vaikimisi filtreerida põhjalikumalt.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite ennetas järgmise veebilehe laadimist:",
+    "message": "AdCrunch ennetas järgmise veebilehe laadimist:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {
