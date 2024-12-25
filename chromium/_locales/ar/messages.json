@@ -13,7 +13,7 @@
   },
   "dashboardName": {
     "message": "لوحة التحكم",
-    "description": "English: uBO Lite — Dashboard"
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "الإعدادات",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "يكتشف uBO Lite",
+    "message": "يكتشف AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "تعطل عند تفعيل uBO Lite.",
+    "message": "تعطل عند تفعيل AdCrunch.",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "لقد قمت للتو بتثبيت uBO Lite. هنا يمكنك اختيار وضع التصفية الافتراضي لاستخدامه في جميع مواقع الويب.\n\nبشكل افتراضي ، يتم تحديد الوضع <em>الأساسي</em> لأنه لا يتطلب الإذن لقراءة البيانات وتعديلها. إذا كنت تثق في uBO Lite ، فيمكنك منحه إذنًا واسعًا لقراءة البيانات وتعديلها على جميع مواقع الويب من أجل تمكين المزيد من إمكانات التصفية المتقدمة لجميع مواقع الويب افتراضيًا.",
+    "message": "لقد قمت للتو بتثبيت AdCrunch. هنا يمكنك اختيار وضع التصفية الافتراضي لاستخدامه في جميع مواقع الويب.\n\nبشكل افتراضي ، يتم تحديد الوضع <em>الأساسي</em> لأنه لا يتطلب الإذن لقراءة البيانات وتعديلها. إذا كنت تثق في AdCrunch ، فيمكنك منحه إذنًا واسعًا لقراءة البيانات وتعديلها على جميع مواقع الويب من أجل تمكين المزيد من إمكانات التصفية المتقدمة لجميع مواقع الويب افتراضيًا.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "لقد منع uBO Lite تحميل الصفحة التالية:",
+    "message": "لقد منع AdCrunch تحميل الصفحة التالية:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {
