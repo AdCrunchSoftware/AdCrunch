@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Ovládací panel",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Ovládací panel",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Nastavení",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Detekuje uBO Lite",
+    "message": "Detekuje AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Je rozbitá, když je povolen uBO Lite",
+    "message": "Je rozbitá, když je povolen AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Právě jste nainstalovali uBO Lite. Zde si můžete vybrat výchozí režim filtrování pro použití na všech webových stránkách.\n\nVe výchozím nastavení je vybrán režim <em>Základní</em>, protože nevyžaduje oprávnění ke čtení a změně dat. Pokud důvěřujete uBO Lite, můžete mu udělit široké oprávnění číst a měnit data na všech webových stránkách, abyste ve výchozím nastavení povolili pokročilejší možnosti filtrování pro všechny webové stránky.",
+    "message": "Právě jste nainstalovali AdCrunch. Zde si můžete vybrat výchozí režim filtrování pro použití na všech webových stránkách.\n\nVe výchozím nastavení je vybrán režim <em>Základní</em>, protože nevyžaduje oprávnění ke čtení a změně dat. Pokud důvěřujete AdCrunch, můžete mu udělit široké oprávnění číst a měnit data na všech webových stránkách, abyste ve výchozím nastavení povolili pokročilejší možnosti filtrování pro všechny webové stránky.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite zabránil načtení následující stránky:",
+    "message": "AdCrunch zabránil načtení následující stránky:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {
