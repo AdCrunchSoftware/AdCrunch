@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — ড্যাশবোর্ড",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — ড্যাশবোর্ড",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "সেটিংস",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Detects uBO Lite",
+    "message": "Detects AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Malfunctions when uBO Lite is enabled",
+    "message": "Malfunctions when AdCrunch is enabled",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "আপনি সবেমাত্র uBO Lite ইনস্টল করেছেন। এখানে আপনি সকল ওয়েবসাইটে ব্যবহার করার জন্য ডিফল্ট ফিল্টারিং মোড চয়ন করতে পারেন৷\n\nডিফল্টরূপে, <em>মৌলিক</em> মোডটি নির্বাচন করা হয়েছে কারণ এতে ডেটা পড়ার এবং পরিবর্তন করার অনুমতির প্রয়োজন হয় না৷ আপনি যদি uBO Lite-কে বিশ্বাস করেন, আপনি ডিফল্টরূপে সকল ওয়েবসাইটের জন্য আরও উন্নত ফিল্টারিং ক্ষমতা সক্ষম করার জন্য এটিকে সকল ওয়েবসাইটের ডেটা পড়তে এবং পরিবর্তন করার বিস্তৃত অনুমতি দিতে পারেন।",
+    "message": "আপনি সবেমাত্র AdCrunch ইনস্টল করেছেন। এখানে আপনি সকল ওয়েবসাইটে ব্যবহার করার জন্য ডিফল্ট ফিল্টারিং মোড চয়ন করতে পারেন৷\n\nডিফল্টরূপে, <em>মৌলিক</em> মোডটি নির্বাচন করা হয়েছে কারণ এতে ডেটা পড়ার এবং পরিবর্তন করার অনুমতির প্রয়োজন হয় না৷ আপনি যদি AdCrunch-কে বিশ্বাস করেন, আপনি ডিফল্টরূপে সকল ওয়েবসাইটের জন্য আরও উন্নত ফিল্টারিং ক্ষমতা সক্ষম করার জন্য এটিকে সকল ওয়েবসাইটের ডেটা পড়তে এবং পরিবর্তন করার বিস্তৃত অনুমতি দিতে পারেন।",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite has prevented the following page from loading:",
+    "message": "AdCrunch has prevented the following page from loading:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {
