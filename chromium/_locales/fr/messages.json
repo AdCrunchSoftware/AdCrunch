@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Tableau de bord",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch — Tableau de bord",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Paramètres",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "détecte uBO Lite",
+    "message": "détecte AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "fonctionne mal quand uBO Lite est activé",
+    "message": "fonctionne mal quand AdCrunch est activé",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "Vous venez d'installer uBO Lite. À présent vous pouvez choisir le mode de filtrage par défaut à utiliser sur tous les sites Web.\n\nPar défaut, le mode <em>Basique</em> est sélectionné car il ne requiert pas de permissions pour lire et modifier les données. Si vous faites confiance à uBO Lite, vous pouvez lui donner des permissions étendues pour lire et modifier les données sur tous les sites Web pour activer des capacités de filtrage plus avancées pour tous les sites Web par défaut.",
+    "message": "Vous venez d'installer AdCrunch. À présent vous pouvez choisir le mode de filtrage par défaut à utiliser sur tous les sites Web.\n\nPar défaut, le mode <em>Basique</em> est sélectionné car il ne requiert pas de permissions pour lire et modifier les données. Si vous faites confiance à AdCrunch, vous pouvez lui donner des permissions étendues pour lire et modifier les données sur tous les sites Web pour activer des capacités de filtrage plus avancées pour tous les sites Web par défaut.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite a empêché le chargement de cette page :",
+    "message": "AdCrunch a empêché le chargement de cette page :",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {
