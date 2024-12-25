@@ -4,9 +4,9 @@
     "description": "extension name."
   },
   "extShortDesc": {
-    "message": "Probatako eta baimenik behar ez duen eduki-blokeatzailea. Iragarkiak, jarraitzeko tresnak, eta gehiago instalatzean bertan.",
+    "message": "The best Adblocker. Blocks adblock detectors, malware, trackers on top of blocking ads on YouTube, Twitch, Facebook, and way more!",
     "description": "this will be in the Chrome web store: must be 132 characters or less"
-  },
+  },,
   "perRulesetStats": {
     "message": "{{ruleCount}} erregela, {{filterCount}} sare-filtrotik bihurtuta.",
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
@@ -280,3 +280,4 @@
     "description": "A button to navigate to the blocked page"
   }
 }
+

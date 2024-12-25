@@ -4,9 +4,9 @@
     "description": "extension name."
   },
   "extShortDesc": {
-    "message": "Ur stanker saotradurioù hep aotre ebet rekis. Stankañ a ra bruderezh, heulierien, minerien ha kalz muioc'h kerkent ha m'eo staliet.",
+    "message": "The best Adblocker. Blocks adblock detectors, malware, trackers on top of blocking ads on YouTube, Twitch, Facebook, and way more!",
     "description": "this will be in the Chrome web store: must be 132 characters or less"
-  },
+  },,
   "perRulesetStats": {
     "message": "{{ruleCount}} reolenn, amdroet diwar {{filterCount}} sil rouedad",
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
@@ -280,3 +280,4 @@
     "description": "A button to navigate to the blocked page"
   }
 }
+

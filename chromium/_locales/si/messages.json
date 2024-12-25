@@ -4,9 +4,9 @@
     "description": "extension name."
   },
   "extShortDesc": {
-    "message": "අවසර අනවශ්‍ය අන්තර්ගත අවහිරකය. ස්ථාපනය කළ වහාම දැන්වීම්, ලුහුබැඳීම්, කැණීම් සහ තවත් දෑ අවහිර කරයි.",
+    "message": "The best Adblocker. Blocks adblock detectors, malware, trackers on top of blocking ads on YouTube, Twitch, Facebook, and way more!",
     "description": "this will be in the Chrome web store: must be 132 characters or less"
-  },
+  },,
   "perRulesetStats": {
     "message": "නීති {{ruleCount}} ක් ජාල පෙරහන් {{filterCount}} කින් හරවා ඇත",
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
@@ -280,3 +280,4 @@
     "description": "A button to navigate to the blocked page"
   }
 }
+

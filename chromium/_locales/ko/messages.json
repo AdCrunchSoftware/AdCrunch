@@ -4,9 +4,9 @@
     "description": "extension name."
   },
   "extShortDesc": {
-    "message": "실험적이고 권한이 적은 콘텐츠 차단기. 광고, 추적기, 채굴기 등을 설치 직후 차단합니다.",
+    "message": "The best Adblocker. Blocks adblock detectors, malware, trackers on top of blocking ads on YouTube, Twitch, Facebook, and way more!",
     "description": "this will be in the Chrome web store: must be 132 characters or less"
-  },
+  },,
   "perRulesetStats": {
     "message": "네트워크 필터 {{filterCount}}개로부터 변환된 규칙 {{ruleCount}}개",
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
@@ -280,3 +280,4 @@
     "description": "A button to navigate to the blocked page"
   }
 }
+

@@ -4,9 +4,9 @@
     "description": "extension name."
   },
   "extShortDesc": {
-    "message": "അനുമതി-കുറവ് ഉള്ളടക്ക ബ്ലോക്കർ. പരസ്യങ്ങൾ, ട്രാക്കറുകൾ, ക്രിപ്‌റ്റോ-മൈനർ എന്നിവയും മറ്റും ഇൻസ്റ്റാളുചെയ്യുമ്പോൾ ഉടനടി തടയുന്നു.",
+    "message": "The best Adblocker. Blocks adblock detectors, malware, trackers on top of blocking ads on YouTube, Twitch, Facebook, and way more!",
     "description": "this will be in the Chrome web store: must be 132 characters or less"
-  },
+  },,
   "perRulesetStats": {
     "message": "{{ruleCount}} നിയമങ്ങൾ, {{filterCount}} നെറ്റ്‌വർക്ക് ഫിൽട്ടറുകളിൽ നിന്ന് പരിവർത്തനം ചെയ്‌തു",
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
@@ -280,3 +280,4 @@
     "description": "A button to navigate to the blocked page"
   }
 }
+

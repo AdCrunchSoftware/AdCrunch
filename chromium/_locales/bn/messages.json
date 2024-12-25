@@ -4,9 +4,9 @@
     "description": "extension name."
   },
   "extShortDesc": {
-    "message": "একটি পরীক্ষামূলক, অনুমতিহীন কন্টেন্ট নিষিদ্ধকারক। বিজ্ঞাপন, অনুসরণকারী, খননকারী, এবং আরো জিনিস নিষিদ্ধ করো ইন্সটলের সাথে সাথেই।",
+    "message": "The best Adblocker. Blocks adblock detectors, malware, trackers on top of blocking ads on YouTube, Twitch, Facebook, and way more!",
     "description": "this will be in the Chrome web store: must be 132 characters or less"
-  },
+  },,
   "perRulesetStats": {
     "message": "{{ruleCount}} rules, converted from {{filterCount}} network filters",
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
@@ -280,3 +280,4 @@
     "description": "A button to navigate to the blocked page"
   }
 }
+

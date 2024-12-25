@@ -4,9 +4,9 @@
     "description": "extension name."
   },
   "extShortDesc": {
-    "message": "ಅನುಮತಿ-ಕಡಿಮೆ ವಿಷಯ ಬ್ಲಾಕರ್. ಅನುಸ್ಥಾಪನೆಯ ತಕ್ಷಣವೇ ಜಾಹೀರಾತುಗಳು, ಟ್ರ್ಯಾಕರ್‌ಗಳು, ಗಣಿಗಾರರು ಮತ್ತು ಹೆಚ್ಚಿನದನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತದೆ.",
+    "message": "The best Adblocker. Blocks adblock detectors, malware, trackers on top of blocking ads on YouTube, Twitch, Facebook, and way more!",
     "description": "this will be in the Chrome web store: must be 132 characters or less"
-  },
+  },,
   "perRulesetStats": {
     "message": "{{ruleCount}} rules, converted from {{filterCount}} network filters",
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
@@ -280,3 +280,4 @@
     "description": "A button to navigate to the blocked page"
   }
 }
+
