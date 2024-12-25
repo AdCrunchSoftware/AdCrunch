@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite - Lan-lekua",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "AdCrunch - Lan-lekua",
+    "description": "English: AdCrunch — Dashboard"
   },
   "settingsPageName": {
     "message": "Ezarpenak",
@@ -140,7 +140,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Detects uBO Lite",
+    "message": "Detects AdCrunch",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -148,7 +148,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Malfunctions when uBO Lite is enabled",
+    "message": "Malfunctions when AdCrunch is enabled",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -172,7 +172,7 @@
     "description": "The header text for the welcome message section"
   },
   "firstRunDescription": {
-    "message": "uBO Lite instalatu berri duzu. Hemen, webgune guztietan erabiltzeko iragazteko modu lehenetsia hauta dezakezu.\n\nAurrez zehaztuta, <em>Oinarrizkoa </em>modua hautatzen da, ez baita baimenik behar datuak irakurtzeko eta aldatzeko. uBO Lite-n konfiantza baduzu, webgune guztietan datuak irakurtzeko eta aldatzeko baimen zabala eman dezakezu, webgune guztietarako iragazteko gaitasun aurreratuagoak gaitzeko, aldez aurretik zehaztuta.",
+    "message": "AdCrunch instalatu berri duzu. Hemen, webgune guztietan erabiltzeko iragazteko modu lehenetsia hauta dezakezu.\n\nAurrez zehaztuta, <em>Oinarrizkoa </em>modua hautatzen da, ez baita baimenik behar datuak irakurtzeko eta aldatzeko. AdCrunch-n konfiantza baduzu, webgune guztietan datuak irakurtzeko eta aldatzeko baimen zabala eman dezakezu, webgune guztietarako iragazteko gaitasun aurreratuagoak gaitzeko, aldez aurretik zehaztuta.",
     "description": "Descriptive text shown at first install time only "
   },
   "defaultFilteringModeSectionLabel": {
@@ -248,7 +248,7 @@
     "description": "Webpage title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite has prevented the following page from loading:",
+    "message": "AdCrunch has prevented the following page from loading:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {
