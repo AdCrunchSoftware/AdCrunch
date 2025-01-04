@@ -20,6 +20,11 @@
         "path": "/rulesets/main/default.json"
       },
       {
+        "id": "badware",
+        "enabled": true,
+        "path": "/rulesets/main/badware.json"
+      },
+      {
         "id": "block-lan",
         "enabled": false,
         "path": "/rulesets/main/block-lan.json"
