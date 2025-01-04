@@ -63,14 +63,14 @@
         "id": "urlhaus.full",
         "id": "urlhaus-full",
         "enabled": true,
-        "path": "/rulesets/main/urlhaus.full.json"
+        "path": "/rulesets/main/urlhaus.full.json",
         "path": "/rulesets/main/urlhaus-full.json"
       },
       {
         "id": "openphish.domains",
         "id": "openphish-domains",
         "enabled": true,
-        "path": "/rulesets/main/openphish.domains.json"
+        "path": "/rulesets/main/openphish.domains.json",
         "path": "/rulesets/main/openphish-domains.json"
       },
       {
