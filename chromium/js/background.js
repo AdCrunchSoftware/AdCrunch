@@ -53,6 +53,7 @@ import {
     patchDefaultRulesets,
     setStrictBlockMode,
     updateDynamicRules,
+    updateSessionRules,
 } from './ruleset-manager.js';
 
 import {
@@ -400,6 +401,12 @@ async function start() {
     // We need to update the regex rules only when ruleset version changes.
     if ( isNewVersion && rulesetsUpdated === false ) {
         updateDynamicRules();
+    if ( rulesetsUpdated === false ) {
+        if ( isNewVersion ) {
+            updateDynamicRules();
+        } else if ( process.wakeupRun === false ) {
+            updateSessionRules();
+        }
     }
 
     // Permissions may have been removed while the extension was disabled
