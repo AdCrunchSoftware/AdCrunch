@@ -399,8 +399,6 @@ async function start() {
         await enableRulesets(rulesetConfig.enabledRulesets);
 
     // We need to update the regex rules only when ruleset version changes.
-    if ( isNewVersion && rulesetsUpdated === false ) {
-        updateDynamicRules();
     if ( rulesetsUpdated === false ) {
         if ( isNewVersion ) {
             updateDynamicRules();
