@@ -281,7 +281,7 @@
   "storage": {
     "managed_schema": "managed_storage.json"
   },
-  "version": "AdCrunchv0.4",
+  "version": "2025.0.4",
   "web_accessible_resources": [
     {
       "resources": [
