@@ -1,5 +1,0 @@
-*.bak
-*.pem
-/**/__pycache__/
-/build/
-/tmp/
