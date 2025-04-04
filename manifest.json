@@ -20,11 +20,6 @@
         "path": "/rulesets/main/default.json"
       },
       {
-        "id": "badware",
-        "enabled": true,
-        "path": "/rulesets/main/badware.json"
-      },
-      {
         "id": "block-lan",
         "enabled": false,
         "path": "/rulesets/main/block-lan.json"
@@ -65,14 +60,14 @@
         "path": "/rulesets/main/annoyances-others.json"
       },
       {
-        "id": "urlhaus-full",
+        "id": "urlhaus.full",
         "enabled": true,
-        "path": "/rulesets/main/urlhaus-full.json"
+        "path": "/rulesets/main/urlhaus.full.json"
       },
       {
-        "id": "openphish-domains",
+        "id": "openphish.domains",
         "enabled": true,
-        "path": "/rulesets/main/openphish-domains.json"
+        "path": "/rulesets/main/openphish.domains.json"
       },
       {
         "id": "stevenblack-hosts",
@@ -282,20 +277,19 @@
     "scripting",
     "storage"
   ],
-  "short_name": "AdCrunch - Free Anti-Detection Adblocker",
+  "short_name": "AdCrunch - Undetectable AdBlocker",
   "storage": {
     "managed_schema": "managed_storage.json"
   },
-  "version": "2025.0.4",
+  "version": "2025.04.04.01",
   "web_accessible_resources": [
     {
       "resources": [
-        "/strictblock.html"
+        "/strictblock.9888d31fc4b7dcbe.html"
       ],
       "matches": [
         "<all_urls>"
-      ],
-      "use_dynamic_url": true
+      ]
     },
     {
       "resources": [

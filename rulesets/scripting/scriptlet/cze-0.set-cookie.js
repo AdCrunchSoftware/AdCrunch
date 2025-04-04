@@ -101,7 +101,6 @@ function getSafeCookieValuesFn() {
         'true', 't', 'false', 'f',
         'yes', 'y', 'no', 'n',
         'all', 'none', 'functional',
-        'granted', 'done',
     ];
 }
 

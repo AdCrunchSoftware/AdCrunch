@@ -19,13 +19,7 @@
     Home: https://github.com/gorhill/uBlock
 */
 
-/* jshint esversion:11 */
-
-'use strict';
-
 // ruleset: lva-0
-
-/******************************************************************************/
 
 // Important!
 // Isolate from global scope
@@ -33,16 +27,13 @@
 
 /******************************************************************************/
 
-const argsList = [["{\"selector\":\".widget_execphp\",\"tasks\":[[\"has-text\",\"Reklāmraksti\"]]}"]];
-
-const hostnamesMap = new Map([["zz.lv",0],["staburags.lv",0],["aluksniesiem.lv",0],["bauskasdzive.lv",0],["dzirkstele.lv",0],["ziemellatvija.lv",0],["rekurzeme.lv",0]]);
-
-const entitiesMap = new Map(undefined);
-
-const exceptionsMap = new Map(undefined);
+const argsList = ["",["{\"selector\":\"div\",\"tasks\":[[\"has\",{\"selector\":\"div\",\"tasks\":[[\"has-text\",\"Reklāma\"]]}],[\"upward\",\"div.item_box_main\"]]}"],["{\"selector\":\".widget_execphp\",\"tasks\":[[\"has-text\",\"Reklāmraksti\"]]}"]];
+const argsSeqs = [0,1,2];
+const hostnamesMap = new Map([["salidzini.lv",1],["zz.lv",2],["staburags.lv",2],["aluksniesiem.lv",2],["bauskasdzive.lv",2],["dzirkstele.lv",2],["ziemellatvija.lv",2],["rekurzeme.lv",2]]);
+const hasEntities = false;
 
 self.proceduralImports = self.proceduralImports || [];
-self.proceduralImports.push({ argsList, hostnamesMap, entitiesMap, exceptionsMap });
+self.proceduralImports.push({ argsList, argsSeqs, hostnamesMap, hasEntities });
 
 /******************************************************************************/
 
